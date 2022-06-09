@@ -283,11 +283,12 @@ main > .sites section img{
   }
 
   main {
-    padding: 1rem;
+    padding: 0rem;
   }
 
   main > .layout-box{
     margin-bottom: 1.3rem;
+    width: 100%;
   }
 
   main > .sites section{
