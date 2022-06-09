@@ -1,0 +1,4 @@
+Sitemap: https://calixtodesenvolvedor.netlify.app/assets/seo/sitemap.xml
+
+User-agent: *
+Allow: /
