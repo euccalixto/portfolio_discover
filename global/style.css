@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+html{
+  --color-primary:#302F3D;
+  --color-secondary:#22212C;
+  --color-tertiary:#CB92B1;
+  --color-text-primary:#837E9F;
+  --color-text-tech:#222;
+  --font-main: 'Merriweather Sans', sans-serif;
+}
