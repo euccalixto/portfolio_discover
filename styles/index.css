@@ -1,7 +1,7 @@
 body{
   display: flex;
   background-color: var(--color-secondary);
-  background: linear-gradient(40deg,#302F3Dff, #22212Ca0), url('./../assets/gifs/part.gif') no-repeat center / cover;
+  background: linear-gradient(40deg,#302F3D, #22212C);
 
 }
 
